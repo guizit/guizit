@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guizinho 😁
+## Bem-vindo(a) ao perfil do Guilherme
 
  <div>
    <a href="https://github.com/guizit">
